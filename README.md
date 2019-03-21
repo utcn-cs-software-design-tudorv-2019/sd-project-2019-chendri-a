@@ -15,11 +15,11 @@ Implementation of an client-server application for selling festival tickets.The 
   
  The admin can do:
  
-   -Crud on user
+    -Crud on user
    
-   -Crud on tickets.
+    -Crud on tickets.
    
-   -Crud on orders.
+    -Crud on orders.
    
-   -Send an confirmation email after an order is placed.
+    -Send an confirmation email after an order is placed.
     
